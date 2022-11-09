@@ -1,0 +1,4 @@
+
+rootProject.name = "Sdp"
+include ':app'
+include ':sdp-android'
